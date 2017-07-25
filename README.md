@@ -1,2 +1,2 @@
 # UWPSamples
-Animated button sample
+Animated button sample - MyButton Project
